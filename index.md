@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Displayong the site title: ((style.title))
+
 You can use the [editor on GitHub](https://github.com/gaa101/jk-assignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
