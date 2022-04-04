@@ -39,6 +39,10 @@ __This is also a bold sentence__
 
 ###### Below are horizontal lines
 ***
+
 ---
+
 <a href="http://google.com"</a>
-[Google](http://google.com)
+[Google](http://google.com) 
+![dog playing with a ball]{images/dog.webp}
+
