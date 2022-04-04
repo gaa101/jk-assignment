@@ -1,5 +1,5 @@
 ---
-layout: defult
+layout: default
 title: Contact us
 description: Our address and hours
 ---
