@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
-
-Displayong the site title: ((style.title))
+---
+layout: default
+title: Welcome
+description: This is the home page
+---
 
 You can use the [editor on GitHub](https://github.com/gaa101/jk-assignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
