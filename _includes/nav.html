@@ -1,7 +1,16 @@
-<nav>
+<!-- <nav>
     <ul>
         <li><a class="btn" href="{{page.url}}">Index</a></li>
         <li><a class="btn" href="about">About</a></li>
         <li><a class="btn" href="contact">Contact</a></li>
     </ul>
-</nav>
+</nav> -->
+
+<ul>
+    {% assign sorted_pages = site.html_pages | sort:"order" %}
+    <!-- go to jeckell site to view full list of variables -->
+    
+    {% for page in sorted_pages %}
+    <li class="btn"><a href="{{site.baseurl}}{{page.url}}">{{page title}}</a></li>
+    {% endfor %}
+</ul>
